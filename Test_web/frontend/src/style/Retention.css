@@ -1,0 +1,35 @@
+.re-container {
+    display: inline-block;
+    position: absolute;
+    top: 0%;
+    left: 13%;
+    height: 100%;
+    width: 87%;
+}
+
+.re-title {
+    text-align: center;
+    font-family: Verdana, sans-serif;
+}
+
+.re-7days {
+    position: absolute;
+    top: 20%;
+    width: 50%;
+    height: 70%;
+    /* border: 1px solid black; */
+}
+
+.re-30days {
+    position: absolute;
+    top: 20%;
+    right: 0%;
+    width: 50%;
+    height: 70%;
+    /* border: 1px solid black; */
+}
+
+.graph-title {
+    text-align: center;
+    font-family: Verdana, sans-serif;
+}

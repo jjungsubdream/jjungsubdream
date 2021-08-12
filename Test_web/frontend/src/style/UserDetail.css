@@ -1,0 +1,50 @@
+.userdetail-name {
+    font-family: Verdana, sans-serif;
+    font-size: 16pt;
+}
+
+.userdetail-table {
+    width: 100%;
+    table-layout: fixed;
+    border-collapse: collapse;
+    font-family: Verdana, sans-serif;
+    font-size: 12px;
+    text-align: left;
+}
+
+.uId {
+    width: 10%;
+}
+
+.uTime {
+    width: 20%;
+}
+
+.uResult {
+    width: 10%;
+}
+
+.uChampion {
+    width: 10%;
+}
+
+.uLevel {
+    width: 10%;
+}
+
+.uRecord {
+    width: 10%;
+}
+
+.uKDA {
+    width: 10%;
+}
+
+.uGold {
+    width: 10%;
+}
+
+.uKilledMinion {
+    width: 10%;
+}
+

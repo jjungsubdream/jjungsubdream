@@ -1,0 +1,56 @@
+.table-wrapper {
+    height: 500px;
+    overflow-y: auto;
+}
+
+.gameTable,.playerTable, th, td {
+    width: 100%;
+    table-layout: fixed;
+    border: 1px solid black;
+    border-collapse: collapse;
+    padding: 10px;
+    text-align: left;
+    font-family: Verdana, sans-serif;
+    font-size: 12px;
+}
+
+.pUserId {
+    width: 25%;
+}
+
+.pCharacterName {
+    width: 75%;
+}
+
+.gGameId {
+    width: 15%;
+}
+
+.gMode {
+    width: 10%;
+}
+
+.gDate {
+    width: 15%;
+}
+
+
+.gUserId {
+    width: 10%;
+}
+
+.gCharacterName {
+    width: 35%;
+}
+
+.date {
+    width: 30%;
+}
+
+.number {
+    width: 40%;
+}
+
+.info {
+    width: 30%
+}

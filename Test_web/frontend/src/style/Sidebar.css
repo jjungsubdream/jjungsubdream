@@ -1,0 +1,86 @@
+.sidebar {
+    width: 200px;
+    height: 100vh;
+    background-color: #262626;
+    margin-top: -20px;
+    margin-left: -8px;
+}
+
+.sidebar-main {
+    color: whitesmoke;
+    text-align: center;
+    font-family: Verdana, sans-serif;
+    font-size: 15pt;
+    padding-top: 30px;
+}
+
+.logout {
+    color: whitesmoke;
+    text-align: center;
+    font-family: Verdana, sans-serif;
+    font-size: 12pt;
+    padding: 5px;
+    padding-bottom: 20px;
+}
+
+.logout {
+    position: relative; 
+    top: 0px; 
+    transition: top 0.1s;
+}
+.logout:hover {
+    top: -2px;
+    color: red;
+}
+
+.logout-button {
+    color: red;
+    text-decoration: none;
+    top: -2px;
+}
+
+.sidebar-minor {
+    text-align: left;
+    font-family: Verdana, sans-serif;
+    font-size: 12pt;
+    padding-bottom: 12px;
+    padding-left: 20px;
+} 
+
+.sidebar-icon {
+    color: whitesmoke;
+    padding-right: 9px;
+}
+
+.sidebar-logoImage {
+    width: 180px;
+}
+
+.sidebar-content {
+    color: whitesmoke;
+    text-decoration: none;
+}
+
+
+.sidebar-games {
+    text-align: center;
+    color: whitesmoke;
+    font-family: Verdana, sans-serif;
+    font-size: 12pt;
+
+}
+
+.sidebar-players {
+    text-align: center;
+    color: whitesmoke;
+    font-family: Verdana, sans-serif;
+    font-size: 12pt;
+
+}
+
+.Timezone {
+    text-align: center;
+    color: whitesmoke;
+    font-family: Verdana, sans-serif;
+    font-size: 12pt;   
+}

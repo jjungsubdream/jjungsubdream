@@ -1,0 +1,35 @@
+{
+  "files": {
+    "main.css": "/static/css/main.bef7183b.chunk.css",
+    "main.js": "/static/js/main.350b9bda.chunk.js",
+    "main.js.map": "/static/js/main.350b9bda.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.cc85cbe0.js",
+    "runtime-main.js.map": "/static/js/runtime-main.cc85cbe0.js.map",
+    "static/css/2.4bd8e119.chunk.css": "/static/css/2.4bd8e119.chunk.css",
+    "static/js/2.e84376cb.chunk.js": "/static/js/2.e84376cb.chunk.js",
+    "static/js/2.e84376cb.chunk.js.map": "/static/js/2.e84376cb.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/2.4bd8e119.chunk.css.map": "/static/css/2.4bd8e119.chunk.css.map",
+    "static/css/main.bef7183b.chunk.css.map": "/static/css/main.bef7183b.chunk.css.map",
+    "static/js/2.e84376cb.chunk.js.LICENSE.txt": "/static/js/2.e84376cb.chunk.js.LICENSE.txt",
+    "static/media/Arwen.c35e44c3.jpg": "/static/media/Arwen.c35e44c3.jpg",
+    "static/media/Horigoshi.1ee3f1a2.jpg": "/static/media/Horigoshi.1ee3f1a2.jpg",
+    "static/media/Iris.9751b377.jpg": "/static/media/Iris.9751b377.jpg",
+    "static/media/JJ.a8023ab7.jpg": "/static/media/JJ.a8023ab7.jpg",
+    "static/media/Katherine.5e63483f.jpg": "/static/media/Katherine.5e63483f.jpg",
+    "static/media/Kinuta.fe2cb5de.jpg": "/static/media/Kinuta.fe2cb5de.jpg",
+    "static/media/Kito.226d59e0.jpg": "/static/media/Kito.226d59e0.jpg",
+    "static/media/Lia.d04cfc5a.jpg": "/static/media/Lia.d04cfc5a.jpg",
+    "static/media/Mary.6c4b8dcf.jpg": "/static/media/Mary.6c4b8dcf.jpg",
+    "static/media/Roku.9028b408.jpg": "/static/media/Roku.9028b408.jpg",
+    "static/media/logo.be671eeb.png": "/static/media/logo.be671eeb.png",
+    "static/media/logo2.23fef2c7.png": "/static/media/logo2.23fef2c7.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.cc85cbe0.js",
+    "static/css/2.4bd8e119.chunk.css",
+    "static/js/2.e84376cb.chunk.js",
+    "static/css/main.bef7183b.chunk.css",
+    "static/js/main.350b9bda.chunk.js"
+  ]
+}

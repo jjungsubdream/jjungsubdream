@@ -1,0 +1,79 @@
+.redeem-container {
+    display: inline-block;
+    position: absolute;
+    top: 0%;
+    left: 13%;
+    height: 100%;
+    width: 87%;
+    /* border: 1px solid black; */
+}
+
+.redeem-box {
+    position: absolute;
+    top: 13%;
+    width: 50%;
+    height: 80%;
+    /* border: 1px solid black; */
+}
+
+.redeem-boxForGroup {
+    position: absolute;
+    top: 13%;
+    right: 0%;
+    width: 50%;
+    height: 80%;
+    /* border: 1px solid black; */
+}
+
+.redeem-title {
+    text-align: center;
+    font-family: Verdana, sans-serif;
+}
+
+.redeem-table-wrapper {
+    position: absolute;
+    top: 13%;
+    left: 10%;
+    display: inline-block;
+    align-items: center;
+    width: 80%;
+    height: 85%;
+    /* border: 1px solid black; */
+    overflow-y: auto;
+}
+
+.redeem-table {
+    width: 100%;
+    table-layout: fixed;
+    border: 1px solid black;
+    border-collapse: collapse;
+    text-align: left;
+}
+
+.code_string {
+    width: 25%;
+}
+
+.description {
+    width: 25%;
+}
+
+.time_used {
+    width: 25%;
+}
+
+.max_time_use {
+    width: 25%;
+}
+
+.description2 {
+    width: 35%;
+}
+
+.totalTimeUsed {
+    width: 32.5%;
+}
+
+.totalMaxTimeUse {
+    width: 32.5%;
+}

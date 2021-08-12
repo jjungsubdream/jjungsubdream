@@ -1,0 +1,46 @@
+.searchContainter {
+    /* position: absolute; */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    /* border: 1px solid black; */
+    padding: 10px;
+    font-family: Verdana, sans-serif;
+}
+
+.resultContainer {
+    font-family: Verdana, sans-serif;
+    text-align: center;
+    height: 85%;
+}
+
+.tableContainer {
+    border: 1px solid black;
+    /* width: 100%; */
+    height: 100%;
+    border-collapse: collapse;
+    overflow-y: scroll;
+}
+
+.resultTable {
+    width: 100%;
+    table-layout: fixed;
+    border-collapse: collapse;
+}
+
+.sId {
+    width: 20%;
+}
+
+.sResult {
+    width: 20%;
+}
+
+.sTime {
+    width: 40%;
+}
+
+.sPlay {
+    width: 20%;
+}

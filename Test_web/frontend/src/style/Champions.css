@@ -1,0 +1,84 @@
+.champions-wrapper {
+    position: absolute;
+    top: 10%;
+    left: 15%;
+    width: 80%;
+    height: 80%;
+    /* border: 1px solid black; */
+}
+
+.champions-type {
+    position: absolute;
+    top: 0%;
+    left: 0%;
+    width: 35%;
+}
+
+.champions-type-content {
+    width: 5%;
+    font-family: Verdana, sans-serif;
+    font-size: 14px;
+    text-align: center;
+}
+
+.champions-img {
+    position: absolute;
+    top: 7%;
+    left: 0.1%;
+    width: 49%;
+    height: 90%;
+    /* border: 1px solid black; */
+    
+}
+
+.champions-img-table {
+    columns: 5;
+    /* border: 1px solid black; */
+    margin-top: 2%;
+    /* margin-left: 5%; */
+    width: 90%;
+    height: 90%;
+}
+
+.champions-img-protrait {
+    border: 1px solid black;
+}
+
+.champions-ranking {
+    position: absolute;
+    top: 7%;
+    right: 0.1%;
+    width: 49%;
+    height: 90%;
+    /* border: 1px solid black; */
+}
+
+.champions-ranking-menu {
+    position: absolute;
+    top: 0%;
+    right: 0.1%;
+    width: 49%;
+    height: 10%;
+    /* border: 1px solid black; */
+}
+
+.champions-ranking-menu-table {
+    position: absolute;
+    width: 30%;
+    table-layout: fixed;
+    /* border: 1px solid black; */
+    top: 0%;
+    right: 0%;
+}
+
+.champions-ranking-menu-title {
+    font-family: Verdana, sans-serif;
+    font-size: 20px;
+    font-weight: bold;
+} 
+
+.champions-ranking-table {
+    /* border: 1px solid black; */
+    width: 100%;
+    border-collapse: collapse;
+}

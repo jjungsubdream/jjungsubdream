@@ -1,0 +1,41 @@
+.signIn-Container {
+    display: flex;
+    flex-direction: column;
+    height: 100vh;
+    justify-content: center;
+    align-items: center;
+}
+
+.MainTitle {
+    font-family: Verdana, sans-serif;
+    font-size: 20px;
+    align-items: center;
+}
+
+.auth-container {
+    width: 100%;
+    max-width: 320px;
+    display: flex;
+    flex-direction: column; 
+    justify-content: center;
+    align-items: center;
+}
+
+.authInput {
+    max-width: 320px;
+    width: 100%;
+    padding: 10px;
+    border-radius: 30px;
+    background-color: rgba(255, 255, 255, 1);
+    margin-bottom: 10px;
+    font-size: 12px;
+    color: black;
+}
+
+.authSubmit {
+    text-align: center;
+    background: #04aaff;
+    color: white;
+    margin-top: 10;
+    cursor: pointer;
+}

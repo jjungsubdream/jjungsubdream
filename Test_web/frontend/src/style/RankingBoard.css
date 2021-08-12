@@ -1,0 +1,66 @@
+.container {
+    display: inline-block;
+    position: absolute;
+    top: 0%;
+    left: 13%;
+    height: 100%;
+    width: 87%;
+}
+
+.rankTable-title {
+    text-align: center;
+    font-family: Verdana, sans-serif;
+}
+
+.rankTable-wrapper {
+    position: absolute;
+    top: 10%;
+    left: 10%;
+    display: inline-block;
+    align-items: center;
+    width: 80%;
+    height: 85%;
+    border: 1px solid black;
+    overflow-y: auto;
+}
+
+.rankTable-main {
+    width: 100%;
+    table-layout: fixed;
+    border: 1px solid black;
+    border-collapse: collapse;
+    padding: 10px;
+    text-align: left;
+}
+
+.userId {
+    width: 14%;
+}
+
+.characterName {
+    width: 28%;
+}
+
+.rankcolor {
+    width: 14%;
+}
+
+.currentPoints {
+    width: 20%;
+}
+
+.TotalNumGame {
+    width: 20%;
+}
+
+.rank {
+    width: 4%;
+}
+
+.pagination a {
+    color: black;
+    float: left;
+    padding: 8px 16px;
+    text-decoration: none;
+    transition: background-color .3s;
+  }
