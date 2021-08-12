@@ -1,5 +1,10 @@
 To start website
 
+Need to install Node.js & NPM module. 
+Please look at this Website: https://www.digitalocean.com/community/tutorials/how-to-install-node-js-on-ubuntu-20-04 
+This website explains how to install Node.js & npm. 
+
+
 1. go to frontend folder (`cd some_path\Test_web\frontend`)
 2. Type `npm install`
 3. Type `npm run build`
